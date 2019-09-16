@@ -1,5 +1,5 @@
 BUILDDIR=build
-FILE=
+FILE=  # supply as an argument: make pdf FILE=...
 
 pdf:
 	mkdir $(BUILDDIR) -p

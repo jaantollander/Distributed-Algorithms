@@ -1,5 +1,5 @@
 ---
-title: Disributed Algorithms - Week 1
+title: Distributed Algorithms - Week 1
 author: Jaan Tollander de Balsch - 452056
 date: \today
 ---

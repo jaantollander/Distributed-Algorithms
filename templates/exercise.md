@@ -1,5 +1,5 @@
 ---
-title: Disributed Algorithms - Week x
+title: Distributed Algorithms - Week x
 author: Jaan Tollander de Balsch - 452056
 date: \today
 ---
